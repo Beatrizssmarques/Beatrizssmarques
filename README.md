@@ -1,35 +1,117 @@
-<h1 align="center">👋 I'm Beatriz Marques</h1>
-<h3 align="center">I’m passionate about learning and bringing ideas to life 😊</h3>
+<h1 align="center">Hi 👋, I'm Beatriz Marques</h1>
 
-- 🔭 I’m currently studing at [Instituto Superior de Engenharia de Coimbra](www.isec.pt)
-- 📫 How to reach me **beatrizsantossmarques@gmail.com**
-- 🌟 Best quality: Always open to learning new things
-- 📚 My biggest addiction? Reading books!
+<h3 align="center">
+Software Engineering Student at ISEC 🇵🇹 <br>
+Passionate about learning, technology and turning ideas into reality ✨
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:beatrizsantossmarques@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Software Engineering Student at **Instituto Superior de Engenharia de Coimbra (ISEC)**
+- 💼 Currently doing an internship at **[Company Name]**
+- 🌱 Always learning new technologies and improving my skills
+- 🚀 Passionate about software development and problem solving
+- 📚 Book lover and lifelong learner
+- ✨ I enjoy turning ideas into real projects
+
+---
+
+## 💼 Internship
+
+Currently working as an intern at **[Company Name]**, where I am:
+
+- Developing and maintaining software applications
+- Working with **[Technologies]**
+- Collaborating with a team using agile methodologies
+- Improving my problem-solving and software design skills
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Project 1
+Short description of your project.
+
+### 🌐 Project 2
+Short description of your project.
+
+### 💻 Project 3
+Short description of your project.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌟 Fun Fact
+
+📚 I can easily spend hours reading a good book and lose track of time!
+
+⭐ Feel free to explore my repositories and connect with me!
