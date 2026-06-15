@@ -12,7 +12,7 @@ Passionate about learning, technology and turning ideas into reality
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/**https://www.linkedin.com/in/beatriz-ss-marques/**">
+  <a href="https://www.linkedin.com/in/beatriz-ss-marques/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -24,8 +24,8 @@ Passionate about learning, technology and turning ideas into reality
 - 🎓 Bachelor's Degree in Software Engineering
 - 💼 Recently completed my internship at **SINMETRO**
 - 🌱 Always learning new technologies and improving my skills
-- 🚀 Passionate about software development and problem-solving
-- 📚 Book lover 
+- 🚀 Passionate about software development, machine learning and problem-solving
+- 📚 Book lover
 
 ---
 
@@ -35,19 +35,24 @@ Recently completed my internship at **SINMETRO**, where I developed a predictive
 
 My work included:
 
-* Building a **Machine Learning model** to forecast and predict rejected parts based on production data
-* Querying and processing large datasets using **SQL**
-* Developing data analysis and ML pipelines in **Python**
-* Creating an interactive dashboard to present model results and key performance indicators
-* Using **Grafana** for data visualization and monitoring
-* Applying data science techniques to solve real industrial challenges
-
+- Building a **Machine Learning model** to forecast and predict rejected parts based on production data
+- Querying and processing large datasets using **SQL**
+- Developing data analysis workflows and machine learning solutions in **Python**
+- Creating an interactive dashboard to present model results and key performance indicators
+- Using **Grafana** for data visualization and monitoring
+- Applying data science techniques to solve real industrial challenges
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills & Tools
 
 <p align="left">
+
+<!-- Programming Languages -->
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -65,6 +70,12 @@ My work included:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Web -->
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
@@ -73,17 +84,54 @@ My work included:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://kotlinlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-</a>
-
 <a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 </a>
+
+<!-- Database -->
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Data Visualization -->
+
+<a href="https://grafana.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Design -->
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.blender.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Excel -->
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
+
+</p>
+
+---
+
+## 🤖 AI Tools
+
+<p align="left">
+
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
+
+<img src="https://cdn.simpleicons.org/claude" width="40" height="40"/>
+
+<img src="https://cdn.simpleicons.org/gemini" width="40" height="40"/>
+
+<img src="https://cdn.simpleicons.org/copilot" width="40" height="40"/>
 
 </p>
 
 ---
 
 ⭐ Feel free to explore my repositories and connect with me!
-```
