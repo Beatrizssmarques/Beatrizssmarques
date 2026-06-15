@@ -1,9 +1,10 @@
 ```md
-<h1 align="center">Hi 👋, I'm Beatriz Marques</h1>
+<h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
 <h3 align="center">
+I'm Beatriz Marques <br>
 Bachelor's Degree in Software Engineering 🇵🇹 <br>
-Passionate about learning, technology and turning ideas into reality ✨
+Passionate about learning, technology and turning ideas into reality
 </h3>
 
 <p align="center">
@@ -21,23 +22,26 @@ Passionate about learning, technology and turning ideas into reality ✨
 ## 👩‍💻 About Me
 
 - 🎓 Bachelor's Degree in Software Engineering
-- 💼 Recently completed my internship at **[Company Name]**
+- 💼 Recently completed my internship at **SINMETRO**
 - 🌱 Always learning new technologies and improving my skills
-- 🚀 Passionate about software development and problem solving
-- 📚 Book lover and lifelong learner
-- ✨ I enjoy turning ideas into real projects
+- 🚀 Passionate about software development and problem-solving
+- 📚 Book lover 
 
 ---
 
 ## 💼 Internship Experience
 
-Recently completed my internship at **[Company Name]**, where I:
+Recently completed my internship at **SINMETRO**, where I developed a predictive analytics solution for a plastic injection company.
 
-- Developed and maintained software applications
-- Worked with **[Technologies]**
-- Collaborated with a team using agile methodologies
-- Strengthened my problem-solving and software design skills
-- Contributed to real-world projects and gained hands-on experience
+My work included:
+
+* Building a **Machine Learning model** to forecast and predict rejected parts based on production data
+* Querying and processing large datasets using **SQL**
+* Developing data analysis and ML pipelines in **Python**
+* Creating an interactive dashboard to present model results and key performance indicators
+* Using **Grafana** for data visualization and monitoring
+* Applying data science techniques to solve real industrial challenges
+
 
 ---
 
@@ -80,43 +84,6 @@ Recently completed my internship at **[Company Name]**, where I:
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-### 📱 Project 1
-A brief description of your project, including the technologies used and what you learned.
-
-### 🌐 Project 2
-A brief description of your project, including the technologies used and what you learned.
-
-### 💻 Project 3
-A brief description of your project, including the technologies used and what you learned.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🌟 A Little More About Me
-
-📚 I can easily spend hours reading a good book and lose track of time.
-
-✨ I believe learning never stops, and I'm always excited to explore new technologies and challenges.
 
 ⭐ Feel free to explore my repositories and connect with me!
 ```
