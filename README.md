@@ -1,7 +1,8 @@
+```md
 <h1 align="center">Hi 👋, I'm Beatriz Marques</h1>
 
 <h3 align="center">
-Software Engineering Student at ISEC 🇵🇹 <br>
+Bachelor's Degree in Software Engineering 🇵🇹 <br>
 Passionate about learning, technology and turning ideas into reality ✨
 </h3>
 
@@ -10,7 +11,7 @@ Passionate about learning, technology and turning ideas into reality ✨
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -19,8 +20,8 @@ Passionate about learning, technology and turning ideas into reality ✨
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering Student at **Instituto Superior de Engenharia de Coimbra (ISEC)**
-- 💼 Currently doing an internship at **[Company Name]**
+- 🎓 Bachelor's Degree in Software Engineering
+- 💼 Recently completed my internship at **[Company Name]**
 - 🌱 Always learning new technologies and improving my skills
 - 🚀 Passionate about software development and problem solving
 - 📚 Book lover and lifelong learner
@@ -28,14 +29,15 @@ Passionate about learning, technology and turning ideas into reality ✨
 
 ---
 
-## 💼 Internship
+## 💼 Internship Experience
 
-Currently working as an intern at **[Company Name]**, where I am:
+Recently completed my internship at **[Company Name]**, where I:
 
-- Developing and maintaining software applications
-- Working with **[Technologies]**
-- Collaborating with a team using agile methodologies
-- Improving my problem-solving and software design skills
+- Developed and maintained software applications
+- Worked with **[Technologies]**
+- Collaborated with a team using agile methodologies
+- Strengthened my problem-solving and software design skills
+- Contributed to real-world projects and gained hands-on experience
 
 ---
 
@@ -82,13 +84,13 @@ Currently working as an intern at **[Company Name]**, where I am:
 ## 🚀 Featured Projects
 
 ### 📱 Project 1
-Short description of your project.
+A brief description of your project, including the technologies used and what you learned.
 
 ### 🌐 Project 2
-Short description of your project.
+A brief description of your project, including the technologies used and what you learned.
 
 ### 💻 Project 3
-Short description of your project.
+A brief description of your project, including the technologies used and what you learned.
 
 ---
 
@@ -97,21 +99,24 @@ Short description of your project.
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌟 Fun Fact
+## 🌟 A Little More About Me
 
-📚 I can easily spend hours reading a good book and lose track of time!
+📚 I can easily spend hours reading a good book and lose track of time.
+
+✨ I believe learning never stops, and I'm always excited to explore new technologies and challenges.
 
 ⭐ Feel free to explore my repositories and connect with me!
+```
