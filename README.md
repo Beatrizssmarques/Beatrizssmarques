@@ -44,7 +44,7 @@ My work included:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="left">
 
@@ -113,22 +113,6 @@ My work included:
 <!-- Excel -->
 
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
-
-</p>
-
----
-
-## 🤖 AI Tools
-
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
-
-<img src="https://cdn.simpleicons.org/claude" width="40" height="40"/>
-
-<img src="https://cdn.simpleicons.org/gemini" width="40" height="40"/>
-
-<img src="https://cdn.simpleicons.org/copilot" width="40" height="40"/>
 
 </p>
 
